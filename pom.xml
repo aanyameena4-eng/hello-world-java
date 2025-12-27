@@ -32,11 +32,11 @@
 <distributionManagement> 
   <repository> 
 	  <id>nexus</id>
-	  <url>http://52.202.100.145:8081/repository/hello-world-rel/</url> 
+	  <url>http://34.238.254.179:8081/repository/hello-world-rel/</url> 
   </repository>   
   <snapshotRepository> 
 	  <id>nexus</id> 
-	  <url>http://52.202.100.145:8081/repository/hello-world-snapshort/</url> 
+	  <url>http://34.238.254.179:8081/repository/hello-world-snapshort/</url> 
   </snapshotRepository> 
 </distributionManagement>
 	<build>
